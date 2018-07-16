@@ -1,7 +1,4 @@
-In this Project we have implemented Terasorting in 3 different ways as follows using Java, Hadoop and Spark. 
-It is implemented such as to be able to perform external sort i.e sort files larger than disk size inplace. 
-Then we have compared the performance with different types of implementations.
-
+In this Project we have implemented Terasorting in 3 different ways as follows using Java, Hadoop and Spark. It is implemented such as to be able to perform external sort i.e sort files larger than disk size inplace. Then we have compared the performance with different types of implementations.
 
 HADOOP:
 
